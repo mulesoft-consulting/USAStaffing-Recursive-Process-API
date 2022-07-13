@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_c1e1195f_d991_4d59_9996_7f0d670a2ee7_Output_Payload = {| TotalOfficesRetrieved: Any |}
+

@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_1ac60500_3ef1_4ed1_958c_af35b55e25bd_Input_Variables_allVacancies = Any
+

@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_a203748c_aa83_4026_a29c_713c21d510ee_Output_Variables_allRequests = Array<Any>
+
