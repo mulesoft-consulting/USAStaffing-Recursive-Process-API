@@ -1,5 +1,5 @@
 # USAStaffing-Recursive-Process-API
-Process API that integrates with USA Staffing Data APIs, recursively retreives any changes made in the last X hrs and transforms the results that can be pesisted into any system such as Salesforce in a customer favorable format 
+Process API that integrates with USA Staffing Data APIs, recursively retrieves any changes made in the last X hrs and transforms the results that can be pesisted into any system such as Salesforce in a customer favorable format 
 
 # Pre-requisites:
 - Request an API Key in USA Staffing website
